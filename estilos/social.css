@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+::-webkit-scrollbar{
+    width: 0px;
+    height: 0px;
+}
+img{
+    width: 100vw;
+}
+a{
+    display: block;
+    background-color: #456278;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    border: 2px solid #fff;
+    border-radius: 10px;
+    margin: 3px;
+}
+a:hover{
+    background-color: #253248;
+}
