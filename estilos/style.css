@@ -40,18 +40,7 @@ iframe#tela{
     height: 471px;
 }
 
-section#redes-direita{
-    text-align: right;
-}
-
 section#redes-sociais img{
-    width: 60px;
-    margin: 10px;
-    border-radius: 50%;
-    box-sizing: border-box;
-}
-
-section#redes-direita{
     width: 60px;
     margin: 10px;
     border-radius: 50%;
@@ -62,6 +51,17 @@ section#redes-sociais img:hover{
     border: 2px solid white;
     transform: translate(5px, 5px);
     transition: transform 0.5s;
+}
+
+section#redes-direita{
+    text-align: right;
+}
+
+section#redes-direita{
+    width: 60px;
+    margin: 10px;
+    border-radius: 50%;
+    box-sizing: border-box;
 }
 
 section#redes-direita img:hover{
